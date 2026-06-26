@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "item_text_component",
   "version": "${version}",
-  "name": "ItemTextComponent",
+  "name": "ItemTextComponentLib",
   "description": "",
   "authors": [
     "Nico_44"
