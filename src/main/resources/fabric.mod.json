@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "item_text_component",
+  "version": "${version}",
+  "name": "ItemTextComponent",
+  "description": "",
+  "authors": [
+    "Nico_44"
+  ],
+  "contact": {},
+  "license": "GPL-3.0",
+  "icon": "assets/item_text_component/icon.png",
+  "accessWidener": "item_text_component.accesswidener",
+  "environment": "*",
+  "entrypoints": {
+
+  },
+  "mixins": [
+    "item_text_component.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
